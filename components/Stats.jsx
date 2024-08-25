@@ -16,7 +16,7 @@ const stats = [
     text: "Leetcode Questions Solved",
   },
   {
-    num: 80,
+    num: 125,
     text: "Code Commits",
   },
 ];
